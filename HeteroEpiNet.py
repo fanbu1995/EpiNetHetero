@@ -624,7 +624,7 @@ if __name__ == '__main__':
               'b_omega': np.array([0,0])}
         
         simulateData(pa, N, p0, tmax, stage_change, Xp = 2, 
-                     savepath='/Users/fan/Documents/Research_and_References/Hetero_EpiNet_2020/', 
+                     savepath='USE_YOUR_PATH_OF_DATA', 
                      dirname = dirname,
                      seed=s0)
         
@@ -657,6 +657,6 @@ if __name__ == '__main__':
               'b_omega': np.array([0,0])}
         
         simulateData(pa, N, p0, tmax, stage_change, Xp = 2, 
-                     savepath='/Users/fan/Documents/Research_and_References/Hetero_EpiNet_2020/', 
+                     savepath='USE_YOUR_PATH_OF_DATA', 
                      dirname = dirname,
                      seed=s0)
