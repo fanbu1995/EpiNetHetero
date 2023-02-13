@@ -1,5 +1,5 @@
 ### "EpiNetHetero"
-Code repository for "likelihood-based inference for partially observed epidemics with individual heterogeneity"
+Code repository for [Likelihood-based inference for partially observed epidemics with individual heterogeneity](https://arxiv.org/abs/2112.07892)
 
 This contains the core code used for simulation experiments in the manuscript. 
 As the real data are proprietary, we cannot share them publicly, and the real data analysis code isn't included either 
